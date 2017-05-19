@@ -1,0 +1,13 @@
+﻿  source.cpp
+c:\users\kevin\documents\visual studio 2015\projects\arkanoid_project_v1.0_0524_collision-2016-05-29\arkanoid_project_v1.0_0524_collision\arkanoid_project\source.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\arkanoid_project_v1.0_0524_collision-2016-05-29\arkanoid_project_v1.0_0524_collision\arkanoid_project\source.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\arkanoid_project_v1.0_0524_collision-2016-05-29\arkanoid_project_v1.0_0524_collision\arkanoid_project\source.cpp(103): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\arkanoid_project_v1.0_0524_collision-2016-05-29\arkanoid_project_v1.0_0524_collision\arkanoid_project\source.cpp(106): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\arkanoid_project_v1.0_0524_collision-2016-05-29\arkanoid_project_v1.0_0524_collision\arkanoid_project\source.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\arkanoid_project_v1.0_0524_collision-2016-05-29\arkanoid_project_v1.0_0524_collision\arkanoid_project\source.cpp(131): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\arkanoid_project_v1.0_0524_collision-2016-05-29\arkanoid_project_v1.0_0524_collision\arkanoid_project\source.cpp(151): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\arkanoid_project_v1.0_0524_collision-2016-05-29\arkanoid_project_v1.0_0524_collision\arkanoid_project\source.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\arkanoid_project_v1.0_0524_collision-2016-05-29\arkanoid_project_v1.0_0524_collision\arkanoid_project\source.cpp(236): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\arkanoid_project_v1.0_0524_collision-2016-05-29\arkanoid_project_v1.0_0524_collision\arkanoid_project\source.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\kevin\documents\visual studio 2015\projects\arkanoid_project_v1.0_0524_collision-2016-05-29\arkanoid_project_v1.0_0524_collision\arkanoid_project\vec3.h(77): warning C4715: 'Vec3::operator[]': not all control paths return a value
+  Arkanoid_Project.vcxproj -> C:\Users\Kevin\Documents\Visual Studio 2015\Projects\Arkanoid_Project_V1.0_0524_collision-2016-05-29\Arkanoid_Project_V1.0_0524_collision\Debug\Arkanoid_Project.exe

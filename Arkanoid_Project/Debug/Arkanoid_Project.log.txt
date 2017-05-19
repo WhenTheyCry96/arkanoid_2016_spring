@@ -1,0 +1,32 @@
+﻿빌드 시작: 2016-05-28 오후 10:34:44
+     1>2 노드의 "C:\Users\Administrator\Desktop\Arkanoid_Project_V1.0_0524\Arkanoid_Project\Arkanoid_Project.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I./include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Ball.cpp Boundary.cpp source.cpp
+         Ball.cpp
+         코드를 생성하고 있습니다...
+     1>c:\users\administrator\desktop\arkanoid_project_v1.0_0524\arkanoid_project\vec3.h(77): warning C4715: 'Vec3::operator[]' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+         컴파일하고 있습니다...
+         source.cpp
+     1>c:\users\administrator\desktop\arkanoid_project_v1.0_0524\arkanoid_project\source.cpp(38): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\administrator\desktop\arkanoid_project_v1.0_0524\arkanoid_project\source.cpp(51): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\administrator\desktop\arkanoid_project_v1.0_0524\arkanoid_project\source.cpp(54): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\administrator\desktop\arkanoid_project_v1.0_0524\arkanoid_project\source.cpp(55): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\administrator\desktop\arkanoid_project_v1.0_0524\arkanoid_project\source.cpp(79): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\administrator\desktop\arkanoid_project_v1.0_0524\arkanoid_project\source.cpp(99): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\administrator\desktop\arkanoid_project_v1.0_0524\arkanoid_project\source.cpp(159): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\administrator\desktop\arkanoid_project_v1.0_0524\arkanoid_project\source.cpp(162): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+         Boundary.cpp
+         코드를 생성하고 있습니다...
+     1>c:\users\administrator\desktop\arkanoid_project_v1.0_0524\arkanoid_project\vec3.h(77): warning C4715: 'Vec3::operator[]' : 모든 제어 경로에서 값을 반환하지는 않습니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\Arkanoid_Project_V1.0_0524\Debug\Arkanoid_Project.exe" /INCREMENTAL /NOLOGO /LIBPATH:./lib glew32.lib glut32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Administrator\Desktop\Arkanoid_Project_V1.0_0524\Debug\Arkanoid_Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\Arkanoid_Project_V1.0_0524\Debug\Arkanoid_Project.lib" /MACHINE:X86 Debug\Ball.obj
+         Debug\Boundary.obj
+         Debug\Brick.obj
+         Debug\source.obj
+         Debug\Stick.obj
+         Arkanoid_Project.vcxproj -> C:\Users\Administrator\Desktop\Arkanoid_Project_V1.0_0524\Debug\Arkanoid_Project.exe
+     1>"C:\Users\Administrator\Desktop\Arkanoid_Project_V1.0_0524\Arkanoid_Project\Arkanoid_Project.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.50
